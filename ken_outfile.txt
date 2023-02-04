@@ -1,0 +1,33 @@
+mymatch1: "BLANCH, I've got"
+line 51: BLANCH, I've got
+mymatch3: pattern3Bpattern3pattern3Lpattern3pattern3Apattern3pattern3Npattern3pattern3Cpattern3pattern3Hpattern3, pattern3Ipattern3've got
+mymatch1: "STELLA: Blanch, live!"
+line 51: STELLA: Blanch, live!
+mymatch3: pattern3Spattern3pattern3Tpattern3pattern3Epattern3pattern3Lpattern3pattern3Lpattern3pattern3Apattern3: pattern3Blanchpattern3, live!
+mymatch1: "BLANCHE: Stella, oh, Stella, Stella! Stella for Star"
+line 51: BLANCHE: Stella, oh, Stella, Stella! Stella for Star
+mymatch3: pattern3Bpattern3pattern3Lpattern3pattern3Apattern3pattern3Npattern3pattern3Cpattern3pattern3Hpattern3pattern3Epattern3: pattern3Stellapattern3, oh, pattern3Stellapattern3, pattern3Stellapattern3! pattern3Stellapattern3 for pattern3Starpattern3
+mymatch1: "BLANCHE: Now, then, let me look at you. NickAndNora"
+mymatch2: BLANCHE: Now, then, let me look at you. abcdefNickAndNoraghijkl
+mymatch3: pattern3Bpattern3pattern3Lpattern3pattern3Apattern3pattern3Npattern3pattern3Cpattern3pattern3Hpattern3pattern3Epattern3: pattern3Nowpattern3, then, let me look at you. pattern3Nickpattern3pattern3Andpattern3pattern3Norapattern3
+mymatch1: "STANLEY: Why, that you had to live in these conditions, BLANCHE"
+line 51: STANLEY: Why, that you had to live in these conditions, BLANCHE
+mymatch3: pattern3Spattern3pattern3Tpattern3pattern3Apattern3pattern3Npattern3pattern3Lpattern3pattern3Epattern3pattern3Ypattern3: pattern3Whypattern3, that you had to live in these conditions, pattern3Bpattern3pattern3Lpattern3pattern3Apattern3pattern3Npattern3pattern3Cpattern3pattern3Hpattern3pattern3Epattern3
+mymatch1: "BLANCHE: I'm tired."
+line 51: BLANCHE: I'm tired.
+mymatch3: pattern3Bpattern3pattern3Lpattern3pattern3Apattern3pattern3Npattern3pattern3Cpattern3pattern3Hpattern3pattern3Epattern3: pattern3Ipattern3'm tired.
+mymatch1: "STELLA: Blanche, live!"
+line 51: STELLA: Blanche, live!
+mymatch3: pattern3Spattern3pattern3Tpattern3pattern3Epattern3pattern3Lpattern3pattern3Lpattern3pattern3Apattern3: pattern3Blanchepattern3, live!
+line 42: abc
+line 51: abc
+line 59: abc
+line 42: live
+line 51: live
+line 59: live
+mymatch1: "Janice is 22 and Theon is 33"
+line 51: Janice is 22 and Theon is 33
+mymatch3: pattern3Janicepattern3 is 22 and pattern3Theonpattern3 is 33
+mymatch1: "Gabriel is 44 and Joey is 21"
+line 51: Gabriel is 44 and Joey is 21
+mymatch3: pattern3Gabrielpattern3 is 44 and pattern3Joeypattern3 is 21
